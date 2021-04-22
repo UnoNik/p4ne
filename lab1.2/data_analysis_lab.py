@@ -1,4 +1,4 @@
-#!//usr/bin/python3
+#!/usr/bin/python3
 
 from matplotlib import pyplot
 from openpyxl import load_workbook
